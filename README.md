@@ -1,7 +1,7 @@
 # tWiTtEr_tOgGlE_bOt
 Toggle them tweets!
 
-I utilized the Twitter API to have a bot that continuously monitors and tOgGlE cAsEs politicians' tweets. 
+I utilized the Twitter API to make a bot that continuously monitors and tOgGlE cAsEs politicians' tweets. 
 
 ## Usage
 
